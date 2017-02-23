@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-2-21, 10:17:45
+    Author     : Administrator
+*/
+
+
+td.data{
+    background-color: #eeeee0;
+    border-bottom:#cccc99 1px solid;
+    border-left: #ffffff 1px solid;
+    border-right: #cccc99 1px solid;
+    border-top: #ffffff 1px solid;
+    height: 23px;
+}
+
+td.data{
+    background-color:#3988e4 ;
+    border-bottom:#000033 1px solid;
+    border-left:#669999  1px solid;
+    border-right:#000033 1px solid;
+    border-top:#669999  1px solid;
+    height:#ffffff;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    
+}
+
+td.header{
+    background-color: #ffffff;
+    border-bottom:#cccccc 1px solid;
+    border-left:#ffffff  1px solid;
+    border-right:#cccccc 1px solid;
+    border-top:#ffffff  1px solid;
+    height:23px;
+}
+
+td{
+    font-family: 宋体,Verdana,Helvetica,sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: #eeeeee;
+    scrollbar-face-color:#dce0e2;
+    scrollbar-highlight-color:#ffffff;
+          scrollbar-shadow-color:#687888;
+           scrollbar-3dlight-color:#687888;
+            scrollbar-arrow-color:#6e7e88;
+             scrollbar-track-color:#bcbfc0;
+              scrollbar-darkshadow-color:#dce0e2;
+              font-size: 12px;
+}
+
+a:link{
+    color: red;
+    text-decoration: none;
+}
+
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red ;
+    text-decoration: none;    
+}
